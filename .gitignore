@@ -1,0 +1,7 @@
+*.css
+*.iml
+.idea
+/node_modules/
+.project
+/dist/
+package-lock.json
