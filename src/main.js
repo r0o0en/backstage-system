@@ -1,5 +1,5 @@
 require('./assets/css/style.less');
-require('./assets/css/style2.css');
+require('./assets/css/style2.less');
 import 'babel-polyfill';
 function test(resolve,reject) {
     var n = Math.random() * 2 ;
